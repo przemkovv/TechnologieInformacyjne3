@@ -1,4 +1,4 @@
-# TechnologieInformacyjne3
+# Technologie informacyjne 3
 
  Materiały pomocniczne na laboratorium technologie informacyjne na Politechnice Poznańskiej
 
